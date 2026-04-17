@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Snowflake CDC Pipeline (Stream + Task + MERGE)
 
@@ -83,3 +84,6 @@ Metin — Data Engineering Practice Project
 ## 📌 Note
 
 This project is designed for learning and portfolio purposes to demonstrate real-world data pipeline architecture using Snowflake.
+=======
+# snowflake-cdc-stream-task-pipeline
+>>>>>>> 9ef6077f98c41b7ea03b6e738a2fca2e8c2791d6
